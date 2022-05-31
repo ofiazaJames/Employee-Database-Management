@@ -1,0 +1,10 @@
+This project is currrently disconnected to the server.
+
+As of now, 5-31-2022, I personally making its database in order to succesfully connect it to the server.
+
+Files can be bypassed through editting the code, yet some details is not present because there is no database present in the host admin. 
+
+Thank You for consideration.
+
+
+-ofiazaJames
